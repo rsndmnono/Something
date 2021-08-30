@@ -1,4 +1,5 @@
-DOMAIN-SUFFIX,emby.nexitally.com,Emby
-DOMAIN-SUFFIX,plusmedia.site,Emby
-DOMAIN-SUFFIX,mickeycloud.com,Emby
-DOMAIN-SUFFIX,emby.wtf,Emby
+DOMAIN-SUFFIX,emby.nexitally.com,GlobalTV
+DOMAIN-SUFFIX,plusmedia.site,GlobalTV
+DOMAIN-SUFFIX,mickeycloud.com,GlobalTV
+DOMAIN-SUFFIX,emby.wtf,GlobalTV
+DOMAIN-SUFFIX,odysseyplus.site,GlobalTV
